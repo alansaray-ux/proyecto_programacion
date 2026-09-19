@@ -1,5 +1,5 @@
 # Programa preliminar: grafo de prueba del Metro de Madrid
-# en relacion a un tutorial sobre networkx y matplotlob programa preeliminar:
+# en relacion a un tutorial sobre networkx y conocimientos previos de matplotlob programa preeliminar:
 
 import networkx as nx
 import matplotlib.pyplot as plt
